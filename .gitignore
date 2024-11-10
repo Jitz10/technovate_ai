@@ -1,0 +1,4 @@
+\venv
+\pychache
+\faiss_index_webpages
+.env
